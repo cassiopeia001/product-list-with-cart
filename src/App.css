@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "Red Hat Text";
+    src: url(/public/assets/fonts/RedHatText-VariableFont_wght.ttf);
+}
