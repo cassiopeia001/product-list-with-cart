@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/product-list-with-cart/static/css/main.54d6f729.css",
+    "main.js": "/product-list-with-cart/static/js/main.8c6f76ec.js",
+    "static/js/453.707bc0b2.chunk.js": "/product-list-with-cart/static/js/453.707bc0b2.chunk.js",
+    "static/media/RedHatText-VariableFont_wght.ttf": "/product-list-with-cart/static/media/RedHatText-VariableFont_wght.885cbf49d3f8ee6d075c.ttf",
+    "index.html": "/product-list-with-cart/index.html",
+    "main.54d6f729.css.map": "/product-list-with-cart/static/css/main.54d6f729.css.map",
+    "main.8c6f76ec.js.map": "/product-list-with-cart/static/js/main.8c6f76ec.js.map",
+    "453.707bc0b2.chunk.js.map": "/product-list-with-cart/static/js/453.707bc0b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54d6f729.css",
+    "static/js/main.8c6f76ec.js"
+  ]
+}
