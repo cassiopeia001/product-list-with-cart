@@ -38,7 +38,7 @@ export default function Dessert ({dessert, handleClick, dessertList}){
 
                         
                         <button className="border-Rose-400 border-[1px] bg-Rose-50 flex items-center justify-center gap-2 rounded-3xl py-2 px-1 text-Rose-900 font-medium absolute -bottom-6 hover:text-Red hover:border-Red w-2/3" onClick={ ()=>{addItem("add")}}>
-                            <img className="w-5" src="/assets/images/icon-add-to-cart.svg" alt="add to cart" />
+                            <img className="w-5" src="/product-list-with-cart/assets/images/icon-add-to-cart.svg" alt="add to cart" />
                             Add To Cart
                         </button>
                     ) : (
